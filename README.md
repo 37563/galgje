@@ -14,4 +14,4 @@
 ## Beurten
 * ik raad een e
 * ik raad een a
-
+* ik raad een k
