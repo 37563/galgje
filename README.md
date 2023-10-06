@@ -16,3 +16,4 @@
 * ik raad een a
 * ik raad een k
 * ik raad een i
+* ik raad een o
